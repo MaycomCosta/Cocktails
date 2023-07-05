@@ -1,4 +1,4 @@
 [build] 
 base = "."
-command = "react-scripts build"
+command = "vite"
 publish = "./build/"
