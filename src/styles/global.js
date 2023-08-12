@@ -9,7 +9,7 @@ const Global = createGlobalStyle`
   }
   body {
     font-family: 'Poppins', Sans-Serif;
-    background-color: #11395a;
+    background-color: #0f2637;
   }
 `
 
